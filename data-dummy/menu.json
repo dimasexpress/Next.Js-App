@@ -1,0 +1,6 @@
+[
+    {"id" : "kl", "title" : "komponen lain"},
+    {"id" : "ld", "title" : "lcd"},
+    {"id" : "hd", "title" : "hardisk"},
+    {"id" : "pr", "title" : "processor"}
+]
